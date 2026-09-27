@@ -46,27 +46,29 @@ The dashboard is designed to make ecommerce business information easier to under
 
 ### Dashboard 1
 
-Original Dashboard:
-
-![Ecommerce Sales Dashboard 1](Images/ss1.png)
+![Ecommerce Sales Dashboard 1](Images/1.png)
 
 ### Dashboard 2
 
-Dashboard with customised category:
-
-![Ecommerce Sales Dashboard 2](Images/ss2.png)
+![Ecommerce Sales Dashboard 2](Images/2.png)
 
 ### Dashboard 3
 
-Dashboard with customised payment method:
-
-![Ecommerce Sales Dashboard 3](Images/ss3.png)
+![Ecommerce Sales Dashboard 3](Images/3.png)
 
 ### Dashboard 4
 
-Dashboard with customised category and payment method:
+![Ecommerce Sales Dashboard 4](Images/4.png)
 
-![Ecommerce Sales Dashboard 4](Images/ss4.png)
+### Dashboard 5
+
+
+![Ecommerce Sales Dashboard 4](Images/5.png)
+
+### Dashboard 6
+
+![Ecommerce Sales Dashboard 4](Images/6.png)
+
 
 ---
 
